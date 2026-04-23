@@ -1,0 +1,1 @@
+{"model_name": "sentence-transformers/all-MiniLM-L6-v2", "features": ["sim_ref_stu", "sim_que_stu", "len_ratio", "sim_sq"]}

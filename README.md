@@ -278,17 +278,7 @@ automated_assessment/
 
 ---
 
-## Citation
 
-```bibtex
-@inproceedings{chaudhary2025handwritten,
-  title     = {Handwritten Assignment Assessment via NLP: OCR Error Profiling and Noise-Robust Short-Answer Grading},
-  author    = {Chaudhary, Nikhil and Ranjan, Ashutosh and Pankaj and Kumar, Nikhil and Sachan, Aryan and SaiCharan, Bhupathi},
-  booktitle = {Proceedings of the IEEE Conference},
-  year      = {2025},
-  institution = {University of Delhi}
-}
-```
 
 ---
 
